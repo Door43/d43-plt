@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[plt:home|Door43 (plt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-plt|d43-plt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-plt/archive/master.zip|d43-plt.zip]]
+
+**Recent Changes**
+{{changes>ns = plt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/plt|Ethnologue data]]
+
